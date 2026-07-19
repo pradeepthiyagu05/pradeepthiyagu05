@@ -13,12 +13,10 @@
 # 👨‍💻 About Me
 
 - 🎓 B.E. Electrical & Electronics Engineering Student at **M. Kumarasamy College of Engineering**
-- 💡 Passionate about **Embedded Systems, IoT, Robotics, and Software Development**
+- 💡 Passionate about **Embedded Systems, IoT and Software Development**
 - 💻 Strong interest in **Java Programming, Web Development, and Automation**
 - 🤖 Building innovative real-world engineering solutions
-- 📡 Experienced with **ESP32, ESP8266, Arduino, and IoT Systems**
-- 📚 Currently learning **React, SQL, Advanced Java, and Modern Web Technologies**
-- 🚀 Patent Filed for an **Electro-Mechanical Emergency Safety System for Leg Press Machines**
+- 📚 Currently learning **Advanced Java, and Modern Web Technologies**
 - 🎯 Goal: To become a Product Engineer and develop impactful technologies
 
 ---
@@ -27,15 +25,15 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sridhar08">
+<a href="www.linkedin.com/in/pradeepthiyagu">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:mrsridharsubramani@gmail.com">
+<a href="mailto:pradeepthiyagaraj32@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/svaroz">
+<a href="https://github.com/pradeepthiyagu05">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -47,7 +45,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,git,github,vscode"/>
 
 </p>
 
