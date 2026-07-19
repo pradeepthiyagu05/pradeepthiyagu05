@@ -52,5 +52,4 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/ESP32-Embedded-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP8266-IoT-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
