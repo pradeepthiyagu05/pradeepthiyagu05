@@ -14,7 +14,7 @@
 
 - 🎓 B.E. Electrical & Electronics Engineering Student at **M. Kumarasamy College of Engineering**
 - 💡 Passionate about **Embedded Systems, IoT and Software Development**
-- 💻 Strong interest in **Java Programming, Web Development, and Automation**
+- 💻 Strong interest in **Java Programming, Python and C programming**
 - 🤖 Building innovative real-world engineering solutions
 - 📚 Currently learning **Advanced Java, and Modern Web Technologies**
 - 🎯 Goal: To become a Product Engineer and develop impactful technologies
